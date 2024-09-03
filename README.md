@@ -36,7 +36,7 @@ git clone https://github.com/Apiljungthapa/SmartJobMailer.git
 
 1. Create an .env file in the app directory.
 
-2. Obtain an API_KEY from Groq by visiting Groq Console.
+2. Obtain an API_KEY from Groq by visiting Groq Console. https://console.groq.com/keys.
 
 3. Add the API_KEY to your .env file:
 
