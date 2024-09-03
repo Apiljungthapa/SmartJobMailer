@@ -63,6 +63,30 @@ Run the Streamlit app with the following command:
 streamlit run app/main.py
 ```
 
+### License
+
+This software is licensed under the Apil License. You are free to use, modify, and distribute this software for personal, educational, or non-commercial purposes. Commercial use of this software is strictly prohibited without prior written permission from the author.
+
+© 2024 Apil Thapa. All rights reserved.
+
+### Contributors
+
+We would like to thank the following contributors for their invaluable contributions to this project:
+
+Apil Thapa - https://github.com/Apiljungthapa/
+
+Miraj Deep Bhandari - https://github.com/mirajdeepbhandari
+
+Feel free to reach out to any of us for more information or collaboration!
+
+### How to Use This README
+
+- **Copy the Markdown code** above into a `README.md` file in the root directory of your project.
+- **Ensure all image paths** and references are correctly pointing to your `imgs` folder (e.g., `imgs/architecture.png`).
+- **Push the updated README** to your GitHub repository to make it accessible to anyone cloning your repository.
+
+This README provides comprehensive setup instructions and properly credits contributors, making it professional and informative.
+
 
 
 
