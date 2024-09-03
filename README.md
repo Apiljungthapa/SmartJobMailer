@@ -67,7 +67,8 @@ streamlit run app/main.py
 
 This software is licensed under the Apil License. You are free to use, modify, and distribute this software for personal, educational, or non-commercial purposes. Commercial use of this software is strictly prohibited without prior written permission from the author.
 
-© 2024 Apil Thapa. All rights reserved.
+For more details, please see the [LICENSE](https://github.com/Apiljungthapa/SmartJobMailer/blob/main/LICENSE) file.
+
 
 ### Contributors
 
