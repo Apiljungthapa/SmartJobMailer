@@ -1,0 +1,5 @@
+langchain_groq
+chromadb
+pandas
+streamlit
+langchain_community
