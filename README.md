@@ -32,7 +32,22 @@ git clone https://github.com/Apiljungthapa/SmartJobMailer.git
 
 ```
 
-### Step 2: Install Dependencies
+### Step 2: Set Up Environment Variables
+
+1. Create an .env file in the app directory.
+
+2. Obtain an API_KEY from Groq by visiting Groq Console.
+
+3. Add the API_KEY to your .env file:
+
+```bash
+GROQ_API_KEY=your_api_key_here
+
+
+```
+
+
+### Step 3: Install Dependencies
 Install the required dependencies using pip:
 
 ```bash
@@ -40,7 +55,7 @@ pip install -r requirements.txt
 
 ```
 
-### Step 3: Run the Streamlit App
+### Step 4: Run the Streamlit App
 
 Run the Streamlit app with the following command:
 
