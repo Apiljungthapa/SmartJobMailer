@@ -76,7 +76,6 @@ We would like to thank the following contributors for their invaluable contribut
 
 Apil Thapa - https://github.com/Apiljungthapa/
 
-Miraj Deep Bhandari - https://github.com/mirajdeepbhandari
 
 Feel free to reach out to any of us for more information or collaboration!
 
