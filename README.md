@@ -17,7 +17,7 @@ The architecture of this tool is illustrated below:
 - **Web Scraping**: Extracts job listings from the careers page of any company.
 - **AI-Powered Analysis**: Uses Groq's API and LangChain to analyze job descriptions.
 - **Cold Email Generation**: Automatically generates personalized cold emails based on job descriptions and matches them with relevant portfolio links.
-- **Integration with Vector Databases**: Retrieves relevant portfolio links using vector similarity searches based on job descriptions.
+- **Integration with Vector Databases**: Retrieves relevant portfolio links using vector similarity searches based on job description.
 
 ## Installation and Setup
 
